@@ -1,0 +1,2 @@
+EMAIL_USER=lagransubasta022@gmail.com
+EMAIL_PASS=TU_APP_PASSWORD
